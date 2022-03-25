@@ -1,20 +1,4 @@
-#!/bin/bash
 
-# ###########################################
-# ###########################################
-#
-# Wireguard installation script for Ubuntu 18.04
-# by OneMarcFifty
-# the place for digital DIY
-#
-# https://www.youtube.com/channel/UCG5Ph9Mm6UEQLJJ-kGIC2AQ
-#
-# ###########################################
-# ###########################################
-
-# ###############################
-# This needs to be run as root !
-# ###############################
 
 # ###########################################
 # Delete any old config
